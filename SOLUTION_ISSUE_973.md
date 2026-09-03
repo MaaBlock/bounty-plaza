@@ -133,3 +133,12 @@ All 11 test cases passed cleanly with 100% assertions satisfied:
 - `scripts/verify_issue_973.py`: Verification utility.
 - `tests/test_issue_973.py`: Automated pytest test suite.
 - `SOLUTION_ISSUE_973.md`: Solution and technical documentation.
+
+---
+
+## 6. Official Payout Address Routing
+
+- **Primary USDC Address (Polygon / Arbitrum / Base / EVM):** `0x267e548ab3444aa0a671914ac7c644306a6b90b4`
+- **Preferred Network:** **Polygon (USDC-Polygon)**
+- **Alternative TRON Address (TRC20 USDT):** `TWvzvF4FszbXM6qnBS947aNJHfyvA1kdZC`
+
