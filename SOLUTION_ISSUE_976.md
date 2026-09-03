@@ -22,6 +22,7 @@ Official platform grading executed via `scripts/score.py`:
   - **Performance:** 10 / 10 (Execution latency: 0.04s against 1.0s baseline)
 
 ## Payout Routing
-- **Primary TRON Payout Address (TRC20 USDT):** `TWvzvF4FszbXM6qnBS947aNJHfyvA1kdZC`
-- **Official Token Contract:** `TR7NHqJEKQxGTCi8q8ZY4pL8otSzgjLj6t` (TRC20 USDT)
-- **Secondary EVM Address:** `0xF46C9F6d70C50BF81ef3588AB523a90a594a2F89`
+- **Official USDC Payout Address (Polygon / Arbitrum / Base / EVM):** `0x267e548ab3444aa0a671914ac7c644306a6b90b4`
+- **Preferred Network:** Polygon (USDC-Polygon) / Arbitrum One / Base
+- **Alternative TRON Payout Address (TRC20 USDT):** `TWvzvF4FszbXM6qnBS947aNJHfyvA1kdZC`
+- **USDT Contract:** `TR7NHqJEKQxGTCi8q8ZY4pL8otSzgjLj6t`
